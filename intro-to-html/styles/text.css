@@ -1,0 +1,50 @@
+p {
+        font-family: Montserrat;
+        font-weight: 700;
+        text-align: center;
+        margin-top: 0;
+        margin-bottom: 0;
+      }
+      .new {
+        color: red;
+        font-weight: bold;
+        margin-bottom: 10px;
+      }
+      .macbook {
+        font-size: 30px;
+        font-weight: bold;
+        margin-bottom: 10px;
+      }
+      .macbook-desc {
+        font-size: 40px;
+        font-weight: bolder;
+        margin-bottom: 10px;
+      }
+      .price {
+        margin-bottom: 20px;
+      }
+      .buy {
+        background-color: rgb(9, 102, 209);
+        color: white;
+        font-size: 14px;
+        font-weight: bold;
+        padding-top: 7px;
+        padding-left: 12px;
+        padding-right: 12px;
+        padding-bottom: 7px;
+        border-radius: 25px;
+      }
+      .parent-buy {
+        margin-bottom: 20px;
+      }
+      .margin {
+        margin-bottom: 10px;
+      }
+      .dollar {
+        font-size: 30px;
+        margin-right: 10px;
+      }
+      .dollar-unit {
+        font-size: 14px;
+        color: rgb(66, 64, 64);
+      }

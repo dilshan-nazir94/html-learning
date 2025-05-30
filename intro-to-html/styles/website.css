@@ -1,0 +1,124 @@
+.div {
+        margin-bottom: 20px;
+      }
+      a {
+        color: rgb(0, 113, 113);
+        font-size: 20px;
+        transition: color 0.15s;
+        margin-right: 10px;
+      }
+      a:hover {
+        color: rgb(255, 164, 28);
+      }
+      .p1 {
+        font-size: 40px;
+        font-weight: bold;
+      }
+      .p2 {
+        font-size: 20px;
+        font-weight: bold;
+        color: rgb(0, 118, 0);
+      }
+      .p3 {
+        font-size: 20px;
+      }
+      .add-to-cart-button {
+        background-color: rgb(255, 216, 20);
+        color: black;
+        font-size: 18px;
+        padding: 15px 30px;
+        border-radius: 30px;
+        border: none;
+        cursor: pointer;
+        margin-right: 20px;
+        transition: opacity 0.15s, box-shadow 0.15s;
+      }
+      .add-to-cart-button:hover {
+        opacity: 0.8;
+        box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+      }
+      .add-to-cart-button:active {
+        opacity: 0.5;
+      }
+      .buy-now-button {
+        background-color: rgb(255, 164, 28);
+        color: black;
+        height: 50px;
+        width: 150px;
+        font-size: 18px;
+        border-radius: 25px;
+        border: none;
+        cursor: pointer;
+        transition: opacity 0.15s;
+      }
+      .buy-now-button:hover {
+        opacity: 0.8;
+      }
+      .buy-now-button:active {
+        opacity: 0.5;
+      }
+      .back-button {
+        color: rgb(0, 0, 0);
+        background-color: rgb(255, 255, 255);
+        padding: 10px 6px;
+        font-size: 16px;
+        font-weight: medium;
+        border-radius: 5px;
+        margin-right: 10px;
+        border: 1px solid rgb(0, 0, 0);
+        cursor: pointer;
+      }
+      .next-button {
+        color: rgb(0, 0, 0);
+        background-color: rgb(255, 255, 255);
+        padding: 10px 6px;
+        font-size: 16px;
+        font-weight: medium;
+        border-radius: 5px;
+        border: 1px solid rgb(0, 0, 0);
+        cursor: pointer;
+      }
+      .stretch-button {
+        color: white;
+        background-color: rgb(14, 146, 47);
+        border: none;
+        padding: 15px 25px;
+        font-size: 20px;
+        cursor: pointer;
+        transition: padding 0.15s;
+      }
+
+      .stretch-button:hover {
+        padding: 25px 35px;
+      }
+
+      .shadow-button {
+        color: white;
+        background-color: rgb(14, 146, 47);
+        border: none;
+        padding: 15px 25px;
+        font-size: 20px;
+        cursor: pointer;
+        transition: padding 0.15s;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+        transition: box-shadow 0.15s;
+      }
+      .shadow-button:active {
+        box-shadow: none;
+        margin-top: 2px;
+        margin-left: 2px;
+      }
+      .one-button {
+        color: white;
+        background-color: rgb(14, 146, 47);
+        border: none;
+        padding: 15px 30px;
+        font-size: 20px;
+        cursor: pointer;
+        margin: 0px 30px;
+        transition: padding 0.15s, margin 0.15s;
+      }
+      .one-button:hover {
+        padding: 15px 60px;
+        margin: 0px 0px;
+      }
